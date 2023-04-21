@@ -18,3 +18,8 @@ To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
       [https://public.tableau.com/app/profile/subham.kumar.singh1539/viz/IBM_16819381071260/Dashboard1](url)
  
 ![Dashboard 1](https://user-images.githubusercontent.com/66645269/233285730-b0425b7a-6e6b-4a1b-be21-40d7cb748e80.png)
+
+4- FIFA World Cup Data Analysis Dashboard:
+      [https://public.tableau.com/app/profile/subham.kumar.singh1539/viz/Fifa_16820276794490/Dashboard1?publish=yes](url)
+
+![Dashboard 1](https://user-images.githubusercontent.com/66645269/233566844-91f4be97-01b9-41a0-9f40-c079d59896d7.png)
